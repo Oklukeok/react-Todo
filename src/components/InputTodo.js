@@ -1,0 +1,1 @@
+<InputTodo addTodoProps={this.addTodoItem} />
